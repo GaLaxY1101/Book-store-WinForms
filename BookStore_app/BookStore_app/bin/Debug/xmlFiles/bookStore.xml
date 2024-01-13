@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Central Book Store</Title>
+  <ProductsList>
+    <Product>
+      <Edition Name="The second">
+        <Book Name="Harry Potter">
+          <Genre>Fantasy</Genre>
+          <Author>Joanne Rowling</Author>
+        </Book>
+        <PublishingHouse Name="Publishing house of US">
+          <Сountry>USA</Сountry>
+        </PublishingHouse>
+        <TypeOfCover>Hard</TypeOfCover>
+        <PagesCount>525</PagesCount>
+        <YearOfPublishing>2012</YearOfPublishing>
+      </Edition>
+      <Price>899</Price>
+    </Product>
+    <Product>
+      <Edition Name="The third">
+        <Book Name="Tom Sawyer">
+          <Genre>TravelBooks</Genre>
+          <Author>Mark Twen</Author>
+        </Book>
+        <PublishingHouse Name="Publishing house of London">
+          <Сountry>Great Britan</Сountry>
+        </PublishingHouse>
+        <TypeOfCover>Hard</TypeOfCover>
+        <PagesCount>355</PagesCount>
+        <YearOfPublishing>1990</YearOfPublishing>
+      </Edition>
+      <Price>559</Price>
+    </Product>
+    <Product>
+      <Edition Name="The third">
+        <Book Name="Lord of the Rings">
+          <Genre>TravelBooks</Genre>
+          <Author>John R. R. Tolkien</Author>
+        </Book>
+        <PublishingHouse Name="Publishing house of Kyiv">
+          <Сountry>Ukraine</Сountry>
+        </PublishingHouse>
+        <TypeOfCover>Hard</TypeOfCover>
+        <PagesCount>355</PagesCount>
+        <YearOfPublishing>1990</YearOfPublishing>
+      </Edition>
+      <Price>499</Price>
+    </Product>
+    <Product>
+      <Edition Name="The third">
+        <Book Name="The Witcher. The Last Wish. Book 1">
+          <Genre>Fantasy</Genre>
+          <Author>Andrzej Sapkowski</Author>
+        </Book>
+        <PublishingHouse Name="Publishing house of US">
+          <Сountry>USA</Сountry>
+        </PublishingHouse>
+        <TypeOfCover>Hard</TypeOfCover>
+        <PagesCount>355</PagesCount>
+        <YearOfPublishing>1990</YearOfPublishing>
+      </Edition>
+      <Price>899</Price>
+    </Product>
+    <Product>
+      <Edition Name="The third">
+        <Book Name="The Witcher. The Last Wish. Book 2">
+          <Genre>Fantasy</Genre>
+          <Author>Andrzej Sapkowski</Author>
+        </Book>
+        <PublishingHouse Name="Publishing house of US">
+          <Сountry>USA</Сountry>
+        </PublishingHouse>
+        <TypeOfCover>Hard</TypeOfCover>
+        <PagesCount>355</PagesCount>
+        <YearOfPublishing>1990</YearOfPublishing>
+      </Edition>
+      <Price>899</Price>
+    </Product>
+    <Product>
+      <Edition Name="The third">
+        <Book Name="The Witcher. The Last Wish. Book 3">
+          <Genre>Fantasy</Genre>
+          <Author>Andrzej Sapkowski</Author>
+        </Book>
+        <PublishingHouse Name="Publishing house of US">
+          <Сountry>USA</Сountry>
+        </PublishingHouse>
+        <TypeOfCover>Hard</TypeOfCover>
+        <PagesCount>355</PagesCount>
+        <YearOfPublishing>1990</YearOfPublishing>
+      </Edition>
+      <Price>899</Price>
+    </Product>
+    <Product>
+      <Edition Name="The first">
+        <Book Name="Steve Jobs">
+          <Genre>Autobiography</Genre>
+          <Author>Walter Isaacson</Author>
+        </Book>
+        <PublishingHouse Name="Publishing house of US">
+          <Сountry>USA</Сountry>
+        </PublishingHouse>
+        <TypeOfCover>Hard</TypeOfCover>
+        <PagesCount>567</PagesCount>
+        <YearOfPublishing>2012</YearOfPublishing>
+      </Edition>
+      <Price>1200</Price>
+    </Product>
+    <Product>
+      <Edition Name="The first">
+        <Book Name="My Early Life: 1874-1904">
+          <Genre>Autobiography</Genre>
+          <Author>Winston Churchill</Author>
+        </Book>
+        <PublishingHouse Name="Publishing house of London">
+          <Сountry>Great Britan</Сountry>
+        </PublishingHouse>
+        <TypeOfCover>Hard</TypeOfCover>
+        <PagesCount>567</PagesCount>
+        <YearOfPublishing>1930</YearOfPublishing>
+      </Edition>
+      <Price>600</Price>
+    </Product>
+    <Product>
+      <Edition Name="The first">
+        <Book Name="How to win friends and influence people">
+          <Genre>Business</Genre>
+          <Author>Dale Carnegie</Author>
+        </Book>
+        <PublishingHouse Name="Publishing house of London">
+          <Сountry>Great Britan</Сountry>
+        </PublishingHouse>
+        <TypeOfCover>Hard</TypeOfCover>
+        <PagesCount>495</PagesCount>
+        <YearOfPublishing>1948</YearOfPublishing>
+      </Edition>
+      <Price>789</Price>
+    </Product>
+  </ProductsList>
+  <OrdersList />
+</BookStore>
